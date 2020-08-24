@@ -1,0 +1,22 @@
+{
+  "name": "koala-server",
+  "version": "1.0.0",
+  "description": "Server for koala app.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5aitama/Koala-Server.git"
+  },
+  "author": "5aitama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5aitama/Koala-Server/issues"
+  },
+  "homepage": "https://github.com/5aitama/Koala-Server#readme",
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
